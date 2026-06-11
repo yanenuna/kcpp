@@ -2,11 +2,6 @@
 
 using namespace std;
 
-/**
- * @brief Scoped enumeration for months
- *
- * This enum class represents months of the year.
- */
 enum class Month {
     January = 1,
     February,
