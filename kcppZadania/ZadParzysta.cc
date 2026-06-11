@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 
 // sprawdzenie parzystosci za pomoca operacji bitowej
@@ -52,4 +51,4 @@ int main()
 
     return 0;
 }
-```
+
