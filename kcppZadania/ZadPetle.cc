@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 
 // pokazanie petli while
@@ -87,4 +86,4 @@ int main()
 
     return 0;
 }
-```
+
